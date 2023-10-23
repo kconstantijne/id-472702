@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fY/3XokRjQ5RgkKwLZRFEG2egSrDhOHjY737hyK7n0UpmdgpNh+IT7afWc7mfQj8O+kyUyo/ucC48VV/63Ah7A==",
+  "success": false,
+  "projectFilePath": "/home/kconstantijne/Документи/Projects/id-472702/id-472702.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package gtk-sharp-2.0. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "gtk-sharp-2.0",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/home/kconstantijne/Документи/Projects/id-472702/bin/Debug/net7.0/id-472702
+/home/kconstantijne/Документи/Projects/id-472702/bin/Debug/net7.0/id-472702.deps.json
+/home/kconstantijne/Документи/Projects/id-472702/bin/Debug/net7.0/id-472702.runtimeconfig.json
+/home/kconstantijne/Документи/Projects/id-472702/bin/Debug/net7.0/id-472702.dll
+/home/kconstantijne/Документи/Projects/id-472702/bin/Debug/net7.0/id-472702.pdb
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/id-472702.csproj.AssemblyReference.cache
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/id-472702.GeneratedMSBuildEditorConfig.editorconfig
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/id-472702.AssemblyInfoInputs.cache
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/id-472702.AssemblyInfo.cs
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/id-472702.csproj.CoreCompileInputs.cache
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/id-472702.dll
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/refint/id-472702.dll
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/id-472702.pdb
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/id-472702.genruntimeconfig.cache
+/home/kconstantijne/Документи/Projects/id-472702/obj/Debug/net7.0/ref/id-472702.dll
